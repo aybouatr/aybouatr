@@ -106,7 +106,6 @@ Here are some of the key projects I have worked on, demonstrating my software en
 | [ft_irc](https://github.com/aybouatr/ft_irc) | IRC server project with real-time chat functionalities. | C++ |
 | [NetPractice](https://github.com/aybouatr/NetPractice) | Network configuration and troubleshooting exercises. | Networking |
 | [philosophers](https://github.com/aybouatr/philosophers) | Another concurrency project inspired by the Dining Philosophers problem. | C |
-| [ft_transcendence](https://github.com/aybouatr/ft_transcendence) | Full-stack web application project using modern frameworks. | TypeScript, NestJS, React |
 
 > For a full list of all my repositories and ongoing work, please visit my [GitHub profile](https://github.com/aybouatr).
 
